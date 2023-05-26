@@ -1,5 +1,5 @@
 ### Heyo there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Name+is+Karan;Bridging+Data+Science+and+Biology+🔬;Feel+free+to+look+around+😗!&font=Fira%20Code&center=true&width=500&height=50&duration=4000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Name+is+Karan;🧬+Bridging+Data+Science+and+Biology+🔬;Feel+free+to+look+around+😗!&font=Cormorant%20Code&center=true&width=500&height=50&duration=6000)](https://git.io/typing-svg)
 
 <!--
 **karan-nanda/karan-nanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
